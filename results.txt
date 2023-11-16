@@ -1,0 +1,28 @@
+the total times positive sentiment attached to a rating was found in a mechanism was 
+{'has_leaderboard': 6, 'has_challenges': 16, 'has_points': 18, 'has_badges': 7, 'has_feedback': 20, 'has_social': 20, 
+'has_tracking': 20, 'has_goals': 19, 'has_narrative': 20, 'has_collab': 5}
+pos sent pre avg
+{'has_leaderboard': 4.715536088235294, 'has_challenges': 13.775681073889894, 'has_points': 13.987016313139156, 
+'has_badges': 5.72629125, 'has_feedback': 15.87434577711026, 'has_social': 15.802885559977785, 'has_tracking': 15.980874656621154, 
+'has_goals': 16.422050532317083, 'has_narrative': 15.104546946393729, 'has_collab': 4.85845}
+post avg sorted {'has_narrative': 0.7552273473196864, 'has_points': 0.7770564618410642, 'has_leaderboard': 0.785922681372549, 
+'has_social': 0.7901442779988892, 'has_feedback': 0.7937172888555131, 'has_tracking': 0.7990437328310577, 'has_badges': 0.8180416071428571, 
+'has_challenges': 0.8609800671181184, 'has_goals': 0.8643184490693202, 'has_collab': 0.97169}
+
+the total times neg sentiment attached to a rating was found in a mechanism was 
+{'has_leaderboard': 2, 'has_challenges': 9, 'has_points': 9, 'has_badges': 2, 'has_feedback': 17, 'has_social': 16,
+ 'has_tracking': 14, 'has_goals': 15, 'has_narrative': 17, 'has_collab': 2}
+neg sent pre avg
+{'has_leaderboard': -1.07049, 'has_challenges': -4.777490634920635, 'has_points': -4.9631425,
+ 'has_badges': -1.2572999999999999, 'has_feedback': -9.572427083333332, 'has_social': -8.881725777777778, 'has_tracking': -8.676005082251082, 
+ 'has_goals': -8.539861666666667, 'has_narrative': -10.629807790584413, 'has_collab': -1.2857}
+post avg {'has_collab': -0.64285, 'has_badges': -0.6286499999999999, 'has_narrative': -0.6252828112108478, 
+'has_tracking': -0.6197146487322202, 'has_goals': -0.5693241111111111, 'has_feedback': -0.5630839460784314, 
+'has_social': -0.5551078611111111, 'has_points': -0.5514602777777777, 'has_leaderboard': -0.535245, 'has_challenges': -0.5308322927689595}
+
+mentions
+{'has_leaderboard': 98, 'has_challenges': 428, 'has_points': 274, 'has_badges': 44, 'has_feedback': 368, 'has_social': 684, 'has_tracking': 1649, 'has_goals': 1037, 'has_narrative': 737, 'has_collab': 9}
+
+
+where value is (neg count, pos count)
+{'has_leaderboard': [18, 80], 'has_challenges': [43, 385], 'has_points': [42, 232], 'has_badges': [2, 42], 'has_feedback': [63, 303], 'has_social': [122, 557], 'has_tracking': [282, 1361], 'has_goals': [53, 983], 'has_narrative': [115, 618], 'has_collab': [3, 6]}

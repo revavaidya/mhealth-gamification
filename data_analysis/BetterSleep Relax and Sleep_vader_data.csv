@@ -1,0 +1,27 @@
+rating,vader_sentiment,count,vader_sentiment_score,Element type,Mentions
+5,pos,2,0.96675,has_challenges,2
+5,pos,1,0.9983,has_points,1
+2,pos,2,0.948,has_feedback,15
+4,neg,1,-0.7718,has_feedback,15
+4,pos,2,0.9816,has_feedback,15
+5,neg,1,-0.3365,has_feedback,15
+5,pos,9,0.9497333333333332,has_feedback,15
+1,pos,1,0.9865,has_social,7
+3,pos,1,0.568,has_social,7
+5,pos,5,0.86718,has_social,7
+1,neg,1,-0.8996,has_tracking,21
+1,pos,1,0.9044,has_tracking,21
+2,pos,2,0.6105499999999999,has_tracking,21
+3,neg,2,-0.7213,has_tracking,21
+3,pos,4,0.837575,has_tracking,21
+4,pos,3,0.9682666666666666,has_tracking,21
+5,pos,8,0.896375,has_tracking,21
+5,pos,2,0.98665,has_goals,2
+1,pos,9,0.8704555555555555,has_narrative,70
+2,neg,2,-0.16105,has_narrative,70
+2,pos,4,0.7881750000000001,has_narrative,70
+3,pos,1,0.9919,has_narrative,70
+4,pos,6,0.8560500000000001,has_narrative,70
+5,neg,3,-0.5154666666666666,has_narrative,70
+5,neu,1,0.0,has_narrative,70
+5,pos,44,0.9422636363636364,has_narrative,70
